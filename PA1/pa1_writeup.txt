@@ -1,0 +1,10 @@
+Name:
+PID:
+Date:
+
+
+1. (3pts) In your own words, how does the insert method in SinglyLinkedList.java differ from the add method?
+
+2. (3pts) In your own words, how does the remove method in SinglyLinkedList.java differ from the pop method?
+
+3. (4pts) ArrayList.java contains a non-constructor method that SinglyLinkedList.java does not. What is this method, and why might it appear in ArrayList.java but not SinglyLinkedList.java?
