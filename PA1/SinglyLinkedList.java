@@ -104,6 +104,22 @@ public class SinglyLinkedList<E> {
         return size;
     }
 
+    /**
+     * Returns the element at the specified position in this list.
+     *
+     * @param index the index of the element to return
+     * @return the element at the specified position in this list
+     */
+    public E get(int index) {
+        int pos = 0;
+        Node<E> current = head;
+        while (current.next != null && pos < index) {
+            current = current.next;
+            pos++;
+        }
+        return current.data;
+    }
+
     public String toString() {
         if (size == 0){
             return "[]";
