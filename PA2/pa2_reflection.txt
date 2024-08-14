@@ -4,8 +4,8 @@ Date:
 
 1. (1pt) Approximately how long did you spend on this PA?
 
-2. (3pt) What is something that you think you did well on this PA?
+2. (2pt) What is something that you think you did well on this PA?
 
-3. (3pt) What is something that you struggled with on this PA?
+3. (2pt) What is something that you struggled with on this PA?
 
-4. (1pt) Would you rather have done PA 0 and PA 1 together in one assignment, or did it help you to have them as separate assignments? 
+4. (5pt) Explain your approach to testing the MyStack and CharQueue methods. Choose one non-constructor method from each class and explain which test cases you wrote, along with why you chose to test these cases.
