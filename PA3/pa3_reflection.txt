@@ -1,0 +1,17 @@
+Name:
+PID:
+Date:
+
+1. (1pt) Approximately how long did you spend on this PA?
+
+2. (2pt) Between Count Sort and Bucket Sort, which did you find easier to complete, and why?
+
+3. (1pt) What is the worst-case runtime for Count Sort, in terms of Big-O?
+
+4. (2pt) Is Count Sort an iterative sort, a divide-and-conquer sort, or neither? Why?
+
+5. (1pt) What is the worst-case runtime for Bucket Sort, in terms of Big-O?
+
+6. (2pt) Is Bucket Sort an iterative sort, a divide-and-conquer sort, or neither? Why?
+
+7. (1pt) Did you modify any of the tests in SortsTest.java? Why or why not?
