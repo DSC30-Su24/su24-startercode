@@ -58,7 +58,7 @@ public class Sorts {
         ArrayList<Integer> sortedList = new ArrayList<>();
         for (ArrayList<Integer> bucket : buckets) {
             if (bucket.size() > 0)
-                insertionSort(bucket, 0, bucket.size() - 1);
+                Collections.sort(bucket);
             //TODO // Adds all elements in bucket to sortedList
         }
         return sortedList;
