@@ -1,0 +1,113 @@
+NOTE THAT THE WORD "Output:" IS NOT PART OF THE ACTUAL OUTPUT
+
+Query = "jon-favreau"
+Query Number = 0
+Output:
+Documents related to jon-favreau are: [chef, iron-man-2, spider-man-ffh]
+
+Query = “taika-waititi”
+Query Number = 0
+Output:
+Documents related to taika-waititi are: [jojo-rabbit]
+
+Query = “emilia-clarke”
+Query Number = 0
+Output:
+Documents related to emilia-clarke are: [solo, terminator]
+
+Query = “emma-stone jesse-eisenberg”
+Query Number = 0
+Output:
+Documents related to emma-stone jesse-eisenberg are: [zombieland]
+Documents related to jesse-eisenberg are: [adventureland, batman-vs-superman, now-you-see-me, social-network]
+
+Query = “vin-diesel gal-gadot”
+Query Number = 0
+Output:
+Documents related to vin-diesel gal-gadot are: [fast-and-furious]
+Documents related to vin-diesel are: [guardians-of-the-galaxy]
+Documents related to gal-gadot are: [batman-vs-superman]
+
+Query = “vin-diesel bill-paxton”
+Query Number = 0
+Output:
+The search yielded no results for vin-diesel bill-paxton
+Documents related to vin-diesel are: [fast-and-furious, guardians-of-the-galaxy]
+Documents related to bill-paxton are: [weird-science]
+
+Query = “anton-yelchin michael-douglas”
+Query Number = 0
+Output:
+The search yielded no results for anton-yelchin michael-douglas
+The search yielded no results for anton-yelchin
+The search yielded no results for michael-douglas
+
+Query = “robert-downey-jr tom-holland scarlett-johansson”
+Query Number = 0
+Output:
+Documents related to robert-downey-jr tom-holland scarlett-johansson are: [avengers]
+Documents related to robert-downey-jr are: [chef, dolittle, iron-man-2, sherlock-holmes, tropic-thunder, weird-science]
+Documents related to tom-holland are: [spider-man-ffh]
+Documents related to scarlett-johansson are: [jojo-rabbit, we-bought-a-zoo]
+
+Query = "larry-david jeff-daniels bill-paxton"
+Query Number = 0
+Output:
+The search yielded no results for larry-david jeff-daniels bill-paxton
+The search yielded no results for larry-david
+The search yielded no results for jeff-daniels
+Documents related to bill-paxton are: [weird-science]
+
+Query = "TOM-HOLLAND chris-evans"
+Query Number = 0
+Output:
+Documents related to TOM-HOLLAND chris-evans are: [avengers]
+Documents related to tom-holland are: [dolittle, spider-man-ffh]
+
+Query = "paramount"
+Query Number = 1
+Output:
+Documents related to paramount are: [iron-man-2, terminator, tropic-thunder]
+
+Query = "paramount fox"
+Query Number = 1
+Output:
+The search yielded no results for paramount fox
+Documents related to paramount are: [iron-man-2, terminator, tropic-thunder]
+Documents related to fox are: [jojo-rabbit, we-bought-a-zoo]
+
+Query = "dreamworks paramount"
+Query Number = 1
+Output:
+Documents related to dreamworks paramount are: [tropic-thunder]
+Documents related to paramount are: [iron-man-2, terminator]
+
+Query = "FOX COLUMBIA"
+Query Number = 1
+Output:
+The search yielded no results for FOX COLUMBIA
+Documents related to fox are: [jojo-rabbit, we-bought-a-zoo]
+Documents related to columbia are: [spider-man-ffh]
+
+Query = "chris-evans scarlett-johansson"
+Query Number = 2
+Output:
+Documents related to chris-evans scarlett-johansson are: [PG13]
+Documents related to scarlett-johansson are: [PG, R]
+
+Query = "michael-douglas"
+Query Number = 2
+Output:
+The search yielded no results for michael-douglas
+
+Query = "robert-downey-jr octavia-spencer"
+Query Number = 2
+Output:
+Documents related to robert-downey-jr octavia-spencer are: [PG]
+Documents related to robert-downey-jr are: [PG13, R]
+
+Query = "robert-downey-jr octavia-spencer tom-holland"
+Query Number = 2
+Output:
+Documents related to robert-downey-jr octavia-spencer tom-holland are: [PG]
+Documents related to robert-downey-jr are: [PG13, R]

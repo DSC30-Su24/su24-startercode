@@ -1,0 +1,12 @@
+Name:
+PID:
+Date:
+
+1. (1pt) Approximately how long did you spend on this PA?
+
+2. (4pt) What did you find similar about the implementation of the BSTree/BSTNode and the Node/DoublyLinkedList from PA 1? What was different?
+
+
+3. (3pt) Try searching for your favorite actor (or just any actor you know) in the dataset. What movies, studios, and ratings appear? Is this what you expect? Why or why not? (Don't forget to let us know who you searched for!)
+
+4. (2pt) Do you think a tree is an appropriate data structure to use for a search engine/database? Why or why not? (There’s no right or wrong answers here!)

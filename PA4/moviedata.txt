@@ -1,0 +1,105 @@
+iron-man-2
+robert-downey-jr scarlett-johansson jon-favreau don-cheadle gwyneth-paltrow sam-rockwell paul-bettany
+paramount
+PG13
+-
+dolittle
+tom-holland john-cena robert-downey-jr octavia-spencer rami-malek
+universal
+PG
+-
+sherlock-holmes
+jude-law robert-downey-jr rachel-mcadams mark-strong
+warner-bros
+PG13
+-
+tropic-thunder
+ben-stiller tom-cruise jack-black jay-baruchel robert-downey-jr
+dreamworks paramount
+R
+-
+weird-science
+bill-paxton robert-downey-jr
+universal
+PG13
+-
+avengers
+scarlett-johansson robert-downey-jr chris-evans mark-ruffalo jeremey-renner chris-hemsworth tom-holland
+disney
+PG13
+-
+spider-man-ffh
+tom-holland jon-favreau zendaya jb-smoove martin-starr
+columbia disney pascal
+PG13
+-
+jojo-rabbit
+taika-waititi scarlett-johansson sam-rockwell stephen-merchant roman-griffin-davis thomasin-mckenzie
+fox
+PG13
+-
+we-bought-a-zoo
+matt-damon scarlett-johansson jb-smoove elle-fanning
+fox
+PG
+-
+chef
+jon-favreau sofia-vergara scarlett-johansson john-leguizamo robert-downey-jr
+open-road
+R
+-
+solo
+emilia-clarke woody-harrelson alden-ehrenreich donald-glover phoebe-waller-bridge paul-bettany
+disney
+PG13
+-
+terminator
+arnold-schwarzenegger emilia-clarke jai-courtney jason-clarke matt-smith
+paramount
+PG13
+-
+hunger-games
+woody-harrelson jennifer-lawrence elizabeth-banks
+lionsgate
+PG13
+-
+now-you-see-me
+jesse-eisenberg woody-harrleson mark-ruffalo isla-fisher dave-franco morgan-freeman
+summit
+PG13
+-
+zombieland
+emma-stone jesse-eisenberg bill-murray amber-heard abigail-breslin woody-harrelson
+sony
+R
+-
+batman-vs-superman
+ben-affleck henry-cavill gal-gadot amy-adams diane-lane jesse-eisenberg
+warner-bros
+PG13
+-
+fast-and-furious
+vin-diesel paul-walker gal-gadot michelle-rodriguez jason-statham the-rock
+universal
+PG13
+-
+social-network
+andrew-garfield jesse-eisenberg justin-timberlake brenda-song rashida-jones rooney-mara
+sony
+PG13
+-
+adventureland
+ryan-reynolds kristen-stewart jesse-eisenberg martin-starr kristin-wigg
+disney
+R
+-
+guardians-of-the-galaxy
+chris-pratt zoe-saldana dave-bautista vin-diesel karen-gillan bradley-cooper
+disney
+PG13
+-
+john-wick
+keanu-reeves ian-mcshane john-leguizamo alfie-allen
+summit
+R
+-
