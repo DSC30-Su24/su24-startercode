@@ -1,0 +1,11 @@
+Name:
+PID:
+Date:
+
+1. (1pt) Approximately how long did you spend on this PA?
+
+2. (3pt) d-ary heaps are typically more efficient and useful than binary heaps. However, there’s not really such a thing as a d-ary search tree (as opposed to a binary search tree). Why might this be the case? What is a drawback of implementing a d-ary search tree, instead of a BST?
+
+3. (4pt) Compare and contrast the implementation of the MyPriorityQueue in this PA with the implementation of the CharQueue in PA 3. What is similar about the two data structures? What is different? Give specific details about your code, rather than conceptual similarities and differences.
+
+4. (2pt) Did the accuracy for your KNN algorithm increase or decrease when you increased the number of images (NUM_TEST)? Why do you think that might be?
